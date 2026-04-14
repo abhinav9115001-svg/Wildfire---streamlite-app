@@ -1,4 +1,3 @@
 app.py
 best_model.keras
 requirements.txt
-wildfire_detection_and_monitoring_improved_.ipynb
